@@ -339,7 +339,7 @@ sudo systemctl enable test.service
 
     Created symlink /etc/systemd/system/multi-user.target.wants/test.service → /etc/systemd/system/test.service.
 
-cette commande créer un liens symbolique entre le service et les services a lancer au démarrage.
+cette commande créée un lien symbolique entre le service et les services à lancer au démarrage.
 
 yum install docker
 
